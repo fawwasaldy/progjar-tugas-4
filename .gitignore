@@ -1,0 +1,6 @@
+__pycache__/
+
+upload/*.jpg
+upload/*.jpeg
+upload/*.png
+upload/*.txt
